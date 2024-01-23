@@ -1,6 +1,6 @@
 As a data and chess lover, I did some small projects around chess. You will find them here :
 
--FIDE chess rating.ipynb is an exploratory data analysis (EDA) on a dataset that contains data about all FIDE chess players as of january 2024. 
+-FIDE chess players.ipynb is an exploratory data analysis (EDA) on a dataset that contains data about all FIDE chess players as of january 2024. 
 
 
 -pred_resultat_lichess.ipynb is a small machine learning project. The goal of this project is to predict the result of a given chess position played by 2 humans based on the computer evaluation of the position.
